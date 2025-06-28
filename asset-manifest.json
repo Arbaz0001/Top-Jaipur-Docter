@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Top-Jaipur-Docter/static/css/main.2a8d183d.css",
-    "main.js": "/Top-Jaipur-Docter/static/js/main.6bca0a25.js",
+    "main.js": "/Top-Jaipur-Docter/static/js/main.a33a85dd.js",
     "static/media/doctor-picture.png": "/Top-Jaipur-Docter/static/media/doctor-picture.0261bb4efe7a9075c56a.png",
     "static/media/profile-9.png": "/Top-Jaipur-Docter/static/media/profile-9.b1494732874ee5ad8dad.png",
     "static/media/doctor-group.png": "/Top-Jaipur-Docter/static/media/doctor-group.01394386d8270bd40bc1.png",
@@ -17,10 +17,10 @@
     "static/media/profile-1.png": "/Top-Jaipur-Docter/static/media/profile-1.9aaedec9f0095d002dbb.png",
     "index.html": "/Top-Jaipur-Docter/index.html",
     "main.2a8d183d.css.map": "/Top-Jaipur-Docter/static/css/main.2a8d183d.css.map",
-    "main.6bca0a25.js.map": "/Top-Jaipur-Docter/static/js/main.6bca0a25.js.map"
+    "main.a33a85dd.js.map": "/Top-Jaipur-Docter/static/js/main.a33a85dd.js.map"
   },
   "entrypoints": [
     "static/css/main.2a8d183d.css",
-    "static/js/main.6bca0a25.js"
+    "static/js/main.a33a85dd.js"
   ]
 }
